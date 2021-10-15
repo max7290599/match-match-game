@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+a { 
+    text-decoration: none;
+} 
+
+html {
+	font-size: 20px;
+}
+
+body {
+	min-height: 100vh;
+	color: white;
+	display: flex;
+	justify-content: center;
+	background-color: darkslategrey;
+	width: 100%;
+	font-family: monospace;
+}
+
+main {
+	width: 100%;
+}

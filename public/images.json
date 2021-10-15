@@ -1,0 +1,48 @@
+[
+    {
+        "category": "animal",
+        "images": [
+            "elephant.png",
+            "snake.png",
+            "turtle.png",
+            "beetle.png",
+            "boar.png",
+            "crab.png",
+            "deer.png",
+            "hippo.png",
+            "ladybug.png",
+            "panda.png",
+            "parrot.png",
+            "rhino.png",
+            "shark.png",
+            "sloth.png",
+            "spider.png",
+            "squid.png",
+            "stingray.png",
+            "walrus.png"
+        ] 
+    },
+    {
+        "category": "car",
+        "images": [
+            "ambulance.png",
+            "bus.png",
+            "car-black.png",
+            "car.png",
+            "plane.png",
+            "traffic.png",
+            "train-one.png",
+            "train.png",
+            "key.png",
+            "parking.png",
+            "bike.png",
+            "rocket.png",
+            "boat.png",
+            "fuel.png",
+            "cone.png",
+            "speedometer.png",
+            "jeep",
+            "vespa.png"
+        ] 
+    }
+]

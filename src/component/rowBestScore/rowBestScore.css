@@ -1,0 +1,13 @@
+.rowBestScore {
+    height: 56px;
+    display: flex;
+}
+
+.rowBestScore div {
+    width: 25%;
+}
+
+.rowBestScore img {
+    width: 70px;
+    padding-right: 50px;
+}

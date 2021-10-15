@@ -1,0 +1,12 @@
+.nav {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    height: 85%;
+    width: 33%;
+    justify-content: space-between;
+}

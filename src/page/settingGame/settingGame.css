@@ -1,0 +1,27 @@
+.settingGame {
+    width: 50%;
+    margin: 25px auto;
+    display: flex;
+    flex-flow: column;
+}
+
+span {
+    font-size: 25px;
+    margin: 10px 0;
+    color: #000000;
+    font-weight: bolder;
+}
+
+.easy {
+    width: 222px;
+    height: 260px;
+}
+
+.medium {
+    width: 384px;
+}
+
+.hard {
+    height: 540px;
+    width: 540px;
+}

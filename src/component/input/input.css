@@ -1,0 +1,18 @@
+input[type=text],
+input[type=email] {
+    width: 500px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3cbc8d;
+    color: #cccccc;
+}
+
+input:valid {
+    border-color: #15fa15;
+}
+
+input:invalid {
+    border-color: #ff0f01;
+}
